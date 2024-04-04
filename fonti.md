@@ -32,4 +32,9 @@
 ## W
 ## X
 ## Y
+
+### YouVersion
+
+- [meditazioni-you-version](/fonti/you-version/meditazioni-you-version.md)
+
 ## Z
