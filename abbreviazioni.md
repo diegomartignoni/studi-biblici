@@ -5,7 +5,7 @@
 ## 0-9
 ## A
 
-- [AT](/Abbreviazioni/AT.md)
+- [AT](/abbreviazioni/at.md)
 
 ## B
 ## C
@@ -20,7 +20,7 @@
 ## M
 ## N
 
-- [NT](/Abbreviazioni/NT.md)
+- [NT](/abbreviazioni/nt.md)
 
 ## O
 ## P
@@ -29,7 +29,7 @@
 ## S
 ## T
 
-- [TNK](/Abbreviazioni/TNK.md)
+- [TNK](/abbreviazioni/tnk.md)
 
 ## U
 ## V
