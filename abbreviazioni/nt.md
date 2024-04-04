@@ -6,4 +6,4 @@ Il termine Nuovo Testamento è un termine che va a rappresentare la raccolta di 
 
 ###### Link
 
-- [abbreviazioni](/abbreviazioni.md)
+- [Abbreviazioni](/abbreviazioni.md)

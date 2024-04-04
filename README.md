@@ -6,5 +6,9 @@ Una raccolta personale di appunti e nozioni utili sulla Bibbia, usando il metodo
 
 L'elenco di tutti termini abbreviati e i loro significati. [Clicca qui](/abbreviazioni.md)
 
+## Fonti
+
+L'elenco di tutte le fonti consultate e i relativi contenuti. [Clicca qui](/fonti.md)
+
 
 

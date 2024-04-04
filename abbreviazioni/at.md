@@ -6,4 +6,4 @@ Il termine Antico Testamento si riferisce alla raccolta di libri che precedono l
 
 ###### Link
 
-- [abbreviazioni](/abbreviazioni.md)
+- [Abbreviazioni](/abbreviazioni.md)

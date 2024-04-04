@@ -9,4 +9,4 @@ L'acronimo usato per riferirsi alle tre macro raccolte di libri della tradizione
 
 ###### Link
 
-- [abbreviazioni](/abbreviazioni.md)
+- [Abbreviazioni](/abbreviazioni.md)
